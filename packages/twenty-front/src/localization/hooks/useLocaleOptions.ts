@@ -61,6 +61,7 @@ export const useLocaleOptions = (): LocaleOption[] => {
     'ko-KR': t`Korean`,
     'no-NO': t`Norwegian`,
     'pl-PL': t`Polish`,
+    'fa-IR': t`Persian`,
     'pt-PT': t`Portuguese — Portugal`,
     'pt-BR': t`Portuguese — Brazil`,
     'ro-RO': t`Romanian`,
